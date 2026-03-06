@@ -11,10 +11,10 @@ The reports focus on transforming raw business data into actionable insights usi
 # 📈 Financial Analysis & Profitability
 These reports analyze profitability, margins, and financial performance across different time periods and markets.
 
-## P & L by Fiscal Year - https://github.com/Sushant7274/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf 
-## P&L Statement by Months.pdf
-## P&L Statement by Markets.pdf
-## Gross Margin % by Quarters.pdf
+## P&L by Fiscal Year - https://github.com/Sushant7274/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf 
+## P&L Statement by Months - https://github.com/Sushant7274/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf
+## P&L Statement by Markets - https://github.com/Sushant7274/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf
+## Gross Margin % by Quarters - https://github.com/Sushant7274/Excel-Sales-Analytics/blob/main/Gross%20Margin%20%25%20by%20Quarters.pdf
 
 # 📊 Key Insights Covered
 
@@ -26,10 +26,10 @@ These reports analyze profitability, margins, and financial performance across d
 # 🌍 Market & Operational Performance
 These reports track business performance across markets, divisions, and booking channels.
 
-# All Properties Performance.pdf
-# Division Level Report.pdf
-# Market Performance vs Target Report.pdf
-# Booking Platforms By week.pdf
+## All Properties Performance - https://github.com/Sushant7274/Excel-Sales-Analytics/blob/main/All%20Properties%20Performance.pdf
+## Division Level Report - https://github.com/Sushant7274/Excel-Sales-Analytics/blob/main/Division%20Level%20Report.pdf
+## Market Performance vs Target Report - https://github.com/Sushant7274/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf
+## Booking Platforms By week - https://github.com/Sushant7274/Excel-Sales-Analytics/blob/main/Booking%20Platforms%20By%20week.pdf
 
 # 📊 Key Insights Covered
 
@@ -41,11 +41,11 @@ These reports track business performance across markets, divisions, and booking 
 # 🛍 Product & Customer Analytics
 These reports analyze customer behavior, product performance, and regional trends.
 
-## Customer Performance Report.pdf
-## Net Products 2021.pdf
-## Top 10 Products.pdf
-## Top 5 Countries.pdf
-## Top 5 and bottom 5.pdf
+## Customer Performance Report - https://github.com/Sushant7274/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf
+## Net Products 2021 - https://github.com/Sushant7274/Excel-Sales-Analytics/blob/main/Net%20Products%202021.pdf
+## Top 10 Products - https://github.com/Sushant7274/Excel-Sales-Analytics/blob/main/Top%2010%20Products.pdf
+## Top 5 Countries - https://github.com/Sushant7274/Excel-Sales-Analytics/blob/main/Top%205%20Countries.pdf
+## Top 5 and bottom 5 - https://github.com/Sushant7274/Excel-Sales-Analytics/blob/main/Top%205%20and%20bottom%205.pdf
 
 # 📊 Key Insights Covered
 
@@ -57,10 +57,10 @@ These reports analyze customer behavior, product performance, and regional trend
 # 🧠 Strategy, Planning & Decision Support
 These models help support business decision-making and project prioritization.
 
-## Project Priority Matrix.pdf 
-## Scenario Planning Final.pdf
-## Loan_repayment.xlsx
-## Expense Project.xlsx
+## Project Priority Matrix - https://github.com/Sushant7274/Excel-Sales-Analytics/blob/main/Project%20Priority%20Matrix.pdf
+## Scenario Planning Final - https://github.com/Sushant7274/Excel-Sales-Analytics/blob/main/Scenario%20Planning%20Final.pdf
+## Loan_repayment - https://github.com/Sushant7274/Excel-Sales-Analytics/blob/main/Loan_repayment.xlsx
+## Expense Project - https://github.com/Sushant7274/Excel-Sales-Analytics/blob/main/Expense%20Project.xlsx
 
 # 📊 Key Insights Covered
 
