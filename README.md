@@ -11,7 +11,7 @@ The reports focus on transforming raw business data into actionable insights usi
 # 📈 Financial Analysis & Profitability
 These reports analyze profitability, margins, and financial performance across different time periods and markets.
 
-## P&L Statement by Fiscal Year.pdf
+## P & L by Fiscal Year - https://github.com/Sushant7274/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf 
 ## P&L Statement by Months.pdf
 ## P&L Statement by Markets.pdf
 ## Gross Margin % by Quarters.pdf
